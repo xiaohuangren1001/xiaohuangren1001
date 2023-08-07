@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub! Unfortunately, this GitHub account is now **abandoned**.
+
+I'm currently working on [gitee](https://gitee.com/foolish-shabby), because idk how to configure token here :(
+
+Also, my main project [Jbab](https://github.com/xiaohuangren1001/Jbab) is abandoned too. Currently I have nothing to work on, and also I'm confused of what am I going to do next step.
+
 <!--
 **xiaohuangren1001/xiaohuangren1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
